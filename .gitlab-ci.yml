@@ -6,6 +6,7 @@ pages:
     - node_modules/
 
   script:
+  - echo 3zzUR89iAqMjpKsX7LYMdsJJdnmjx_02EUI_8dY0Nl8.RkPxrlFImXT-N-tYFL4j6V1XFRpue0kl0r25D1WH5fA public/.well-known/acme-challenge/3zzUR89iAqMjpKsX7LYMdsJJdnmjx_02EUI_8dY0Nl8
   - npm install hexo-cli -g
   - npm install
   - hexo deploy
