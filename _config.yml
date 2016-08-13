@@ -145,7 +145,4 @@ deploy:
 # backup
 
 backup:
-    type: git
-    theme: huxblog
-    repository:
-       github: git@github.com:J3n5en/hexo-new-blog.git,hexo
+    type:
