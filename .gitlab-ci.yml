@@ -9,6 +9,14 @@ pages:
   - npm install hexo-cli -g
   - npm install
   - hexo deploy
+  - mkdir -p public/.well-known/acme-challenge/
+  - echo d13irFqyKJxv99RAOEJHxDCbcRttvZSRFYtOKI8Mkhw.RkPxrlFImXT-N-tYFL4j6V1XFRpue0kl0r25D1WH5fA > public/.well-known/acme-challenge/d13irFqyKJxv99RAOEJHxDCbcRttvZSRFYtOKI8Mkhw
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
   artifacts:
     paths:
     - public
