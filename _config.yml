@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: J3n5en's Blog | 用宝贵的青春去赌未知的未来。
-http-header-img: http://ww3.sinaimg.cn/large/6bf00bd8gw1f4nrdmpzp7j21gs0o8q7c.jpg
+http-header-img: https://ww3.sinaimg.cn/large/6bf00bd8gw1f4nrdmpzp7j21gs0o8q7c.jpg
 email: admin@j3n5en.com
 description: "Dreamer and Front-end/Python Developer"
 keyword: "J3n5en,Jensen,Python,Front-end,Django,Flask,Vue.js"
