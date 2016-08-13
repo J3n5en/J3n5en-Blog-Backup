@@ -139,10 +139,4 @@ theme: huxblog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/J3n5en/hexo-new-blog.git
-  branch: gh-pages
-# backup
-
-backup:
-    type:
+  type:
