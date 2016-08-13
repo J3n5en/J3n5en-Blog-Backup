@@ -10,7 +10,7 @@ pages:
   - npm install
   - hexo deploy
   - mkdir -p public/.well-known/acme-challenge/
-  - echo d13irFqyKJxv99RAOEJHxDCbcRttvZSRFYtOKI8Mkhw.RkPxrlFImXT-N-tYFL4j6V1XFRpue0kl0r25D1WH5fA > public/.well-known/acme-challenge/d13irFqyKJxv99RAOEJHxDCbcRttvZSRFYtOKI8Mkhw
+  - echo FG8ijZbrLi5-8gkJ6XFe_QuYVqS7uT-l_Sb6zDqDiOI.9R2ot3E7Mhp2vsitv7KTRdriVjHg7MgybtbDDa9cw7Q > public/.well-known/acme-challenge/FG8ijZbrLi5-8gkJ6XFe_QuYVqS7uT-l_Sb6zDqDiOI
   artifacts:
     paths:
     - public
