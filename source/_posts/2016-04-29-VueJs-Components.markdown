@@ -4,7 +4,7 @@ title:      "VueJs组件[译]"
 subtitle:   "VueJs: Components"
 date:       2016-04-29
 author:     "J3n5en"
-http-header-img: "http://ww4.sinaimg.cn/large/6bf00bd8gw1f4nucnvaafj21ig0qojs1.jpg"
+http-header-img: "https://ww1.sinaimg.cn/large/6bf00bd8gw1f4nucnvaafj21ig0qojs1.jpg"
 tags:
     - VueJs
     - front-end

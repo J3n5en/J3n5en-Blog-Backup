@@ -4,7 +4,7 @@ title:      "千里之堤：VueJs基础[译]"
 subtitle:   "VueJs: The Basics"
 date:       2016-04-27
 author:     "J3n5en"
-http-header-img: "http://ww4.sinaimg.cn/large/6bf00bd8gw1f4nufb4hduj20nm0bk3yl.jpg"
+http-header-img: "https://ww1.sinaimg.cn/large/6bf00bd8gw1f4nufb4hduj20nm0bk3yl.jpg"
 tags:
     - VueJs
     - front-end
