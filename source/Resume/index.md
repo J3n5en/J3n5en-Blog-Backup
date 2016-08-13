@@ -3,7 +3,7 @@ layout: "about"
 title: "Resume"
 date: 2016-04-21 04:48:33
 description: "Hey, this is Kaijun."
-http-header-img: http://ww4.sinaimg.cn/large/6bf00bd8gw1f4nsuhvxlnj21hc0u0qat.jpg
+http-header-img: https://ww4.sinaimg.cn/large/6bf00bd8gw1f4nsuhvxlnj21hc0u0qat.jpg
 ---
 
 ## 个人简历
@@ -28,7 +28,7 @@ http-header-img: http://ww4.sinaimg.cn/large/6bf00bd8gw1f4nsuhvxlnj21hc0u0qat.jp
 
 - 姓名：吴梓轩/男/1996 
 - 本科/韶关学院/信息与计算科学 
-- 博客：http://blog.j3n5en.com/ 
+- 博客：https://blog.j3n5en.com/ 
 - Github：https://github.com/J3n5en
 
 ### 技能清单

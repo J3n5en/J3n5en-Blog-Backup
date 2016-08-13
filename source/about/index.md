@@ -3,7 +3,7 @@ layout: "about"
 title: "About"
 date: 2016-04-21 04:48:33
 description: "Hey, this is Kaijun."
-http-header-img: http://ww4.sinaimg.cn/large/6bf00bd8gw1f4nsuhvxlnj21hc0u0qat.jpg
+http-header-img: https://ww4.sinaimg.cn/large/6bf00bd8gw1f4nsuhvxlnj21hc0u0qat.jpg
 ---
 
 
