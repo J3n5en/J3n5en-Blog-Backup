@@ -11,6 +11,8 @@ pages:
   - hexo deploy
   - mkdir -p public/.well-known/acme-challenge/
   - echo FG8ijZbrLi5-8gkJ6XFe_QuYVqS7uT-l_Sb6zDqDiOI.9R2ot3E7Mhp2vsitv7KTRdriVjHg7MgybtbDDa9cw7Q > public/.well-known/acme-challenge/FG8ijZbrLi5-8gkJ6XFe_QuYVqS7uT-l_Sb6zDqDiOI
+  - echo o8XIuteSCJ81idaeV_1Z1JtDPIB1c6vRPx21nUmu74g.9R2ot3E7Mhp2vsitv7KTRdriVjHg7MgybtbDDa9cw7Q > public/.well-known/acme-challenge/o8XIuteSCJ81idaeV_1Z1JtDPIB1c6vRPx21nUmu74g
+  - echo JqlLnIBYAug8Uk7kO0reXtgxxVfLa_KMZcoPQE3xPbc.9R2ot3E7Mhp2vsitv7KTRdriVjHg7MgybtbDDa9cw7Q > public/.well-known/acme-challenge/JqlLnIBYAug8Uk7kO0reXtgxxVfLa_KMZcoPQE3xPbc
   artifacts:
     paths:
     - public
