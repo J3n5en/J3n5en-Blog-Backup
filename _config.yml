@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.j3n5en.com/
+url: https://blog.j3n5en.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -20,7 +20,7 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: J3n5en's Blog | 用宝贵的青春去赌未知的未来。
-http-header-img: https://ww3.sinaimg.cn/large/6bf00bd8gw1f4nrdmpzp7j21gs0o8q7c.jpg
+http-header-img: https://ww1.sinaimg.cn/large/6bf00bd8gw1f4nrdmpzp7j21gs0o8q7c.jpg
 email: admin@j3n5en.com
 description: "Dreamer and Front-end/Python Developer"
 keyword: "J3n5en,Jensen,Python,Front-end,Django,Flask,Vue.js"
@@ -60,7 +60,7 @@ ba_track_id: f2250b38d06973d11a02e7c538691b88
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Dreamer and Front-end/Python Developer!"
-http-sidebar-avatar: http://ww1.sinaimg.cn/large/6bf00bd8gw1f4nrrsiyx0j20hs0hswes.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+http-sidebar-avatar: https://ww1.sinaimg.cn/large/6bf00bd8gw1f4nrrsiyx0j20hs0hswes.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
